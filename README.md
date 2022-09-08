@@ -7,11 +7,8 @@
 | :exclamation: Important Note            |
 |-----------------------------------------|
 
-## Please fill in your project documentation in this README.md file 
+## This project is for testing the mpw7 precheck online. 
 
-
-:warning: | Use this sample project for analog user projects. 
-:---: | :---
 
 ---
 
